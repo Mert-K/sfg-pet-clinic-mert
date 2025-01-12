@@ -1,4 +1,4 @@
-package guru.springframework.sfg_pet_clinic_mert;
+package guru.springframework.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

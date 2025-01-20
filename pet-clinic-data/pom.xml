@@ -6,7 +6,7 @@
     <parent>
         <groupId>guru.springframework</groupId>
         <artifactId>sfg-pet-clinic-mert</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.0.3-SNAPSHOT</version>
     </parent>
 
     <artifactId>pet-clinic-data</artifactId>
@@ -61,5 +61,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
